@@ -38,8 +38,8 @@ Interactive features include the year slider and tooltips, which provide a more 
 
 ## Links
 
-- [📁 The Data](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/bfro_reports_fall2022.csv)  
-- [📓 The Analysis](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/Workbook.ipynb)
+- [The Data](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/bfro_reports_fall2022.csv)  
+- [The Analysis](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/Workbook.ipynb)
 
 ---
 
