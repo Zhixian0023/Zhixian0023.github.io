@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Final Project - Bigfoot Visualizations
+title: Homework5 - Bigfoot Visualizations
 permalink: /
 ---
 
